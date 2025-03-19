@@ -11,7 +11,7 @@
 ---
 
 ## 📸 Demo Screenshot  
-![Thought Stream Demo](demo.png)
+![Thought Stream Demo](demo.jpg)
 
 ---
 
